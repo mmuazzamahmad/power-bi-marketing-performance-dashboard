@@ -1,6 +1,6 @@
 # Multi-Channel Marketing Performance Dashboard
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/mmuazzamahmad/power-bi-marketing-performance-dashboard/blob/44d7265d816506d4edcc70a282a141d97d61d5ab/Power%20BI%20-%20Marketing%20Dashboard%20-%20Muhammad%20Muazzam%20Ahmad%20-%20GitHub.gif)
+![Dashboard Screenshot](https://raw.githubusercontent.com/mmuazzamahmad/power-bi-marketing-performance-dashboard/main/Power%20BI%20-%20Marketing%20Dashboard%20-%20Muhammad%20Muazzam%20Ahmad%20-%20GitHub.gif)
 
 ## 📖 Project Overview
 
