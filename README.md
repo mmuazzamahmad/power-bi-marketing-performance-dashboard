@@ -42,18 +42,3 @@ Using the "Channel" slicer, we can isolate performance. For example, filtering f
 By selecting a specific product, all visuals update to reflect its performance. This helped identify that "Product X" has a high conversion rate but low ad spend, indicating potential for scaled growth with an increased budget.
 
 ---
-
-## 📁 How to Use
-
-1.  Clone this repository or download the `.pbix` file.
-2.  Open the `[your-project-name].pbix` file in Power BI Desktop.
-3.  Interact with the slicers and visuals to explore the data.
-    *(Note: The dataset is a sample file located in the `/data` folder and is already connected.)*
-
----
-
-## ✍️ Author
-
-*   **[Your Name]**
-*   **Portfolio:** [Link to your portfolio website]
-*   **LinkedIn:** [Link to your LinkedIn profile]
